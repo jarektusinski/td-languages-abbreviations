@@ -95,7 +95,7 @@ const CEBUANO = 'ceb' as const;
 const CHHATTISGARHI = 'hne' as const;
 
 /** Chewa language */
-const CHEWA = 'ny' as const;
+const CHEWA = 'che' as const;
 
 /** Chinese (Mandarin) language */
 const CHINESE = 'zh' as const;
@@ -125,7 +125,7 @@ const DANISH = 'da' as const;
 const DARI = 'prs' as const;
 
 /** Dholuo language */
-const DHOLUO = 'luo' as const;
+const DHOLUO = 'dlu' as const;
 
 /** Dutch language */
 const DUTCH = 'nl' as const;
@@ -395,10 +395,10 @@ const MARATHI = 'mr' as const;
 const MARWARI = 'mwr' as const;
 
 /** Maya languages */
-const MAYA = 'yua' as const;
+const MAYA = 'may' as const;
 
 /** Meitei language */
-const MEITEI = 'mni' as const;
+const MEITEI = 'mei' as const;
 
 /** Meru language */
 const MERU = 'mer' as const;
@@ -641,7 +641,7 @@ const UYGHUR = 'ug' as const;
 const UZBEK = 'uz' as const;
 
 /** Valencian language */
-const VALENCIAN = 'ca' as const;
+const VALENCIAN = 'va' as const;
 
 /** Venda language */
 const VENDA = 've' as const;
